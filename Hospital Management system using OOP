@@ -685,7 +685,7 @@ class Receptionist:public Staff{  //inheriting class staff
 		
 		void menu()
 		{
-			while(1) //loop to go on until it’s break
+			while(1) //loop to go on until itÂ’s break
 			{
 				system("cls");
 				int choice;
